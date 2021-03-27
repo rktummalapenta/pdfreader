@@ -1,6 +1,5 @@
 input:
   dir: "data"
-  file: "Verizon_bill_March_09_2021.pdf"
 pg_number: 0
 mon_list: "January,February,March,April,May,June,July,August,September,October,November,December"
 bill_period:
@@ -13,4 +12,4 @@ bill_crop:
   top: 0.5
   x1: 0.65
   bottom: 0.75
-remove_words: "Ravi,Kumar,Tummalapenta,Shivajith,Venkatesh,None,Balance,forward"
+remove_words: "pass here words you need to clean up the extracted text from pdf"
