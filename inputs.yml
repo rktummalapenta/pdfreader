@@ -1,0 +1,16 @@
+input:
+  dir: "data"
+  file: "Verizon_bill_March_09_2021.pdf"
+pg_number: 0
+mon_list: "January,February,March,April,May,June,July,August,September,October,November,December"
+bill_period:
+  x0: 0
+  top: 0.08
+  x1: 1
+  bottom: 0.09
+bill_crop:
+  x0: 0
+  top: 0.5
+  x1: 0.65
+  bottom: 0.75
+remove_words: "Ravi,Kumar,Tummalapenta,Shivajith,Venkatesh,None,Balance,forward"
